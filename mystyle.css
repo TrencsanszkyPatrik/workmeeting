@@ -1,0 +1,28 @@
+img {
+    width: 50px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  h2.egy {
+    margin-left: 10px;
+  }
+
+  h3 {
+    margin-left: 10px;
+  }
+
+  .hatter {
+    background-color: #e0e0e0;
+    color: #660000;
+    font-family: arial;
+    width: 750px;
+    margin: auto;
+    border-radius: 5px;
+  }
+
+  p {
+    margin-left: 35px;
+  }
